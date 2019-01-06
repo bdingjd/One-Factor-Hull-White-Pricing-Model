@@ -1,0 +1,6 @@
+*.so
+*.swp 
+.ipynb_checkpoints 
+*.tplx 
+*.cpp
+*.py
