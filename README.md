@@ -7,4 +7,4 @@ simplicity and ease of implementation.
 The implementation consists of model volatility parameter calibration based on closed form and Bermudan sawption 
 pricing based on trinomial tree lattices. 
 
-It was coded in c++ and bound with python through jupyter notebook. 
+Python - c++ bindings were applied and the model was run through jupyter notebook. 
